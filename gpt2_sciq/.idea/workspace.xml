@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3755221b-0531-476b-95bb-2502456a79d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2_sciq/app/gpt2/generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2_sciq/app/gpt2/generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/.idea/django_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/migrations/0002_auto_20200318_0915.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/app/gpt2_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/django_test/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_test/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gpt2_sciq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gpt2_sciq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2_sciq/app/gpt2_distractor_generation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2_sciq/app/gpt2_distractor_generation/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gpt2_sciq/app/gpt2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ZLzY1vcdJzu1ju3WKYT6XWWfUH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +75,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../venv/bin/python3" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -74,54 +104,75 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584639261377">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state x="201" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584940409618">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.692@0.27.1366.692" timestamp="1584639261377" />
-    <state x="451" y="131" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584639243307">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state x="201" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940409618" />
+    <state x="289" y="27" width="777" height="694" key="CommitChangelistDialog2" timestamp="1584943847480">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="289" y="27" width="777" height="694" key="CommitChangelistDialog2/0.27.1366.694/1366.0.1024.768@0.27.1366.694" timestamp="1584943847480" />
+    <state x="451" y="131" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584943771659">
+      <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="451" y="131" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.692@0.27.1366.692" timestamp="1584639243307" />
-    <state width="1343" height="2" key="GridCell.Tab.0.bottom" timestamp="1584721934550">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state x="451" y="131" key="FileChooserDialogImpl/0.27.1366.694/1366.0.1024.768@0.27.1366.694" timestamp="1584943771659" />
+    <state x="496" y="138" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940186164" />
+    <state width="1256" height="202" key="GridCell.Tab.0.bottom" timestamp="1584940745081">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="2" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1584721934550" />
-    <state width="1343" height="2" key="GridCell.Tab.0.center" timestamp="1584721934549">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940745081" />
+    <state width="1256" height="202" key="GridCell.Tab.0.center" timestamp="1584940745081">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="2" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1584721934549" />
-    <state width="1343" height="2" key="GridCell.Tab.0.left" timestamp="1584721934549">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940745081" />
+    <state width="1256" height="202" key="GridCell.Tab.0.left" timestamp="1584940745081">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="2" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1584721934549" />
-    <state width="1343" height="2" key="GridCell.Tab.0.right" timestamp="1584721934550">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940745081" />
+    <state width="1256" height="202" key="GridCell.Tab.0.right" timestamp="1584940745081">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="2" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1584721934550" />
-    <state width="1343" height="71" key="GridCell.Tab.1.bottom" timestamp="1584721931759">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940745081" />
+    <state width="1256" height="202" key="GridCell.Tab.1.bottom" timestamp="1584940748039">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="71" key="GridCell.Tab.1.bottom/0.27.1366.692@0.27.1366.692" timestamp="1584721931759" />
-    <state width="1343" height="71" key="GridCell.Tab.1.center" timestamp="1584721931758">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.1.bottom/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940748039" />
+    <state width="1256" height="202" key="GridCell.Tab.1.center" timestamp="1584940748039">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="71" key="GridCell.Tab.1.center/0.27.1366.692@0.27.1366.692" timestamp="1584721931758" />
-    <state width="1343" height="71" key="GridCell.Tab.1.left" timestamp="1584721931758">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.1.center/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940748039" />
+    <state width="1256" height="202" key="GridCell.Tab.1.left" timestamp="1584940748039">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="71" key="GridCell.Tab.1.left/0.27.1366.692@0.27.1366.692" timestamp="1584721931758" />
-    <state width="1343" height="71" key="GridCell.Tab.1.right" timestamp="1584721931758">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.1.left/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940748039" />
+    <state width="1256" height="202" key="GridCell.Tab.1.right" timestamp="1584940748039">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1343" height="71" key="GridCell.Tab.1.right/0.27.1366.692@0.27.1366.692" timestamp="1584721931758" />
-    <state x="172" y="27" width="1012" height="692" key="SettingsEditor" timestamp="1584636532559">
-      <screen x="0" y="27" width="1366" height="692" />
+    <state width="1256" height="202" key="GridCell.Tab.1.right/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940748039" />
+    <state x="95" y="27" width="1065" height="694" key="SettingsEditor" timestamp="1584943781988">
+      <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="172" y="27" width="1012" height="692" key="SettingsEditor/0.27.1366.692@0.27.1366.692" timestamp="1584636532559" />
+    <state x="95" y="27" width="1065" height="694" key="SettingsEditor/0.27.1366.694/1366.0.1024.768@0.27.1366.694" timestamp="1584943781988" />
+    <state x="157" y="27" key="SettingsEditor/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1584940380701" />
     <state width="683" height="347" key="XDebugger.FullValuePopup" timestamp="1584684462597">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
     <state width="683" height="347" key="XDebugger.FullValuePopup/0.27.1366.692@0.27.1366.692" timestamp="1584684462597" />
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1584941543107">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="339" y="200" key="com.intellij.ide.util.TipDialog/0.27.1366.694/1366.0.1024.768@0.27.1366.694" timestamp="1584941543107" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -138,23 +189,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py</url>
-          <line>258</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py</url>
-          <line>266</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py</url>
-          <line>265</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpt2_sciq/app/gpt2/gen.py</url>
           <line>262</line>
-          <option name="timeStamp" value="16" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

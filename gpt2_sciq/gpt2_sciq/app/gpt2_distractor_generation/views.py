@@ -8,6 +8,8 @@ from gpt2_sciq.app.gpt2_distractor_generation.serializers import *
 
 def create_prompt_string(support, question, key):
     return '<|support|>'+support+'<|question|>'+question+'<|key|>'+key+'<|distractor|>'
+
+
 # Create your views here.
 def generate_distractor(request):
     prompt_text  = create_prompt_string(support=request.GET.get('s'),
